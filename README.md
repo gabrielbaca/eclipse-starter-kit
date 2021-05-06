@@ -3,7 +3,7 @@
 # Content
 # Features 
 ## Live syntax check
-[Live syntax check](live-syntax-check.mp4)
+![Live syntax check](live-syntax-check.mp4)
 ## Auto-complete
 ## Multiple source codes open
 ## No limit on open SAP windows
